@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Music</title>
+  <subtitle></subtitle>
+  <id>https://music.curation.space</id>
+  <link href="https://music.curation.space"/>
+  <link href="https://music.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name></name>
+  </author>
+</feed>
