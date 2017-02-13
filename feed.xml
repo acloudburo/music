@@ -5,10 +5,111 @@
   <id>https://music.curation.space</id>
   <link href="https://music.curation.space"/>
   <link href="https://music.curation.space/feed.xml" rel="self"/>
-  <updated>2017-02-13T14:50:33Z</updated>
+  <updated>2017-02-13T18:09:52Z</updated>
   <author>
     <name></name>
   </author>
+  <entry>
+    <title>About</title>
+    <link rel="alternate" href="https://music.curation.space/2017/02/13/about.html"/>
+    <id>https://music.curation.space/2017/02/13/about.html</id>
+    <published>2017-02-13T18:09:52Z</published>
+    <updated>2017-02-13T18:09:53+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/fa60c5fdc5c40ac048ece78814a33095.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+       &lt;div style="font-size:14px;"&gt;&lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;span style="color: rgb(0, 0, 0);"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div style="font-size:16px;"&gt;
+       &lt;span style="color: rgb(0, 0, 0);"&gt;&lt;br&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div style="font-size:16px;"&gt;
+       &lt;span style="color: rgb(0, 0, 0);"&gt;The main purpose of this site is to act as showcase of the template &amp;ldquo;&lt;a href="https://curation.cloudburo.net/2016/12/03/feature-premium-webpage-themes.html"&gt;Material-Photo&lt;/a&gt;&amp;rdquo;, which is one of the professional templates offered by the &lt;a href="https://publishingbot.cloudburo.net/"&gt;Cloudburo Publishing Bot&lt;/a&gt;. &lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div style="font-size:16px;"&gt;
+       &lt;span style="color: rgb(0, 0, 0);"&gt;&lt;br&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div style="font-size:16px;"&gt;
+        The second purpose is publish some of my favourites music videos out of the last 30 years.
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;span style="color: rgb(0, 0, 0);"&gt;&lt;br&gt;&lt;/span&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+         The Cloduburo Publishing Bot solution allows you to publish your content directly from Evernote and manage your content management and curation activities in the most efficient and intuitive manner.
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+         The solution is centered around two optimised content producing workflows - mainly driven out of the Evernote One Workplace solution - which allows you to start establishing your online content presence and to reach out and engage with your community.&lt;br&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+         The two workflows will allow you to easily assemble the right content marketing mix within Evernote.
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;a href="https://publishingbot.cloudburo.net/#workflow"&gt;&lt;a href="https://publishingbot.cloudburo.net/#workflow"&gt;https://publishingbot.cloudburo.net/#workflow&lt;/a&gt;&lt;/a&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+         Be it self-created, curated or news-like content (found for example via Feedly), the process is straightforward and doesn’t distract you from reading, collecting and writing content in Evernote. The handover to the bot is done by simply moving the note in a dedicated notebook. 
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+         Needless to say, the generated website site content is built with mobile in mind and offers a clean, nicely formatted and SEO-optimized reader experience on any device.
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+         The content is produced by Middleman a modern static HTML5 website generator, which results in fast response times and will not result in any vendor lock-in for you. The static pages can be grabbed at any time and moved over to another solution. Bring your own Domain for the site? For sure !
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+         Test and challenge our bot for a free trial month, we require just your email and a valid Evernote Account. Check out the offering and subscribe via
+       &lt;/div&gt;
+       &lt;div style="font-size:16px;"&gt;
+        &lt;br&gt;
+       &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div style="font-size:14px;"&gt;
+       &lt;a href="https://publishingbot.cloudburo.net"&gt;&lt;a href="https://publishingbot.cloudburo.net"&gt;https://publishingbot.cloudburo.net&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;br&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Madonna - Like A Virgin</title>
     <link rel="alternate" href="https://music.curation.space/2017/02/13/madonna-like-a-virgin.html"/>
