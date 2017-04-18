@@ -67,6 +67,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://music.curation.space/2017/04/18/gabin-so-many-nights.html</loc>
+    <lastmod>2017-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://music.curation.space/2017/02/13/jamiroquai-corner-of-the-earth-live-in-verona.html</loc>
     <lastmod>2017-04-15</lastmod>
     <priority>0.7</priority>
@@ -109,6 +115,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://music.curation.space/tags/nujazz.html</loc>
+    <lastmod>2017-04-15</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://music.curation.space/tags/90ties.html</loc>
     <lastmod>2017-04-15</lastmod>
     <priority>0.9</priority>
@@ -118,6 +130,18 @@
     <loc>https://music.curation.space/2017.html</loc>
     <lastmod>2017-04-15</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/2017/04.html</loc>
+    <lastmod>2017-04-15</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/2017/04/18.html</loc>
+    <lastmod>2017-04-15</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
