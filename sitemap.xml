@@ -1,164 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://music.curation.space/menu4.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <loc>https://music.curation.space/menu3.html</loc>
+    <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/contact.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/footer2.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/2017/02/13/pink-floyd-hey-you.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/2017/04/18/adriano-celentano-azzuro.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/2017/04/18/gabin-so-many-nights.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/2017/02/13/yello-live-at-the-roxy-ny-1983.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/2017/02/13/jamiroquai-corner-of-the-earth-live-in-verona.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/2017/02/13/madonna-like-a-virgin.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/footer1.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/menu3.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/menu1.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://music.curation.space/footer3.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <loc>https://music.curation.space/menu2.html</loc>
+    <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/partials/disqus.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://music.curation.space/menu2.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <loc>https://music.curation.space/contact.html</loc>
+    <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/about.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/footer4.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/2017/04/18/adriano-celentano-azzuro.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/2017/02/13/madonna-like-a-virgin.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/2017/02/13/yello-live-at-the-roxy-ny-1983.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/2017/02/13/jamiroquai-corner-of-the-earth-live-in-verona.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/2017/02/13/pink-floyd-hey-you.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/2017/04/18/gabin-so-many-nights.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/menu4.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/footer3.html</loc>
+    <lastmod>2017-11-10</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/footer2.html</loc>
+    <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/tags/70ties.html</loc>
-    <lastmod>2017-08-13</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://music.curation.space/tags/nujazz.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/tags/80ties.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/tags/90ties.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://music.curation.space/tags/nujazz.html</loc>
+    <lastmod>2017-11-10</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/2017.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/2017/04.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/2017/04/18.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/2017/02.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://music.curation.space/2017/02/13.html</loc>
-    <lastmod>2017-08-13</lastmod>
+    <lastmod>2017-11-10</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
